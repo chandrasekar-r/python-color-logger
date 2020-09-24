@@ -14,3 +14,4 @@ logger.warning('warn message')
 logger.error('error message')
 logger.critical('critical message')
 ```
+<img src=https://github.com/chandrasekar-r/python-color-logger/blob/master/Screenshot%202020-09-23%20at%209.36.56%20PM.png>
